@@ -1,5 +1,5 @@
 # QuestKit
-My scripts for easier VR development
+My collection of scripts for easier VR development
 ## Usage
 - Connect your Quest to the same WIFI network as your computer
 - Connect your Quest with USB and allow USB debugging in headset
